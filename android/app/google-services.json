@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967043759151",
+    "project_id": "projectchatapp-5f879",
+    "storage_bucket": "projectchatapp-5f879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967043759151:android:1d0c88ff1ca4c9ca61dada",
+        "android_client_info": {
+          "package_name": "com.example.kumo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB31mKOY1u3x6Z-CKSoAvMd-7C_1shWLsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
